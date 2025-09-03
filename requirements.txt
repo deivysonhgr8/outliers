@@ -1,0 +1,6 @@
+dotenv
+pandas
+numpy
+matplotlib
+scikit-learn
+matplotlib_venn

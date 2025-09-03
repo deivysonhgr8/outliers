@@ -1,0 +1,23 @@
+# Arquivos de ambiente 
+.env
+# Arquivos compilados e cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Pastas de ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+# Arquivos de configuração de editores e IDEs
+.vscode/
+.idea/
+# Arquivos de sistema operacional
+.DS_Store
+# Arquivos de checkpoint do Jupyter Notebook
+.ipynb_checkpoints/
+# Pasta de dados 
+data/
+# Logs
+*.log
