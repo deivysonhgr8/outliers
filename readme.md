@@ -14,13 +14,6 @@ O processo realizado segue a metodologia de **ETL (Extract, Transform, Load)**:
 Os dados utilizados neste projeto são de domínio público e foram fornecidos pelo **Instituto Brasileiro de Geografia e Estatística (IBGE)**, uma das principais fontes de estatísticas e informações geocientíficas do Brasil.
 
 ## Bibliotecas Utilizadas
-
-As seguintes bibliotecas Python são essenciais para a execução deste projeto:
-* **pandas**: Usada para a manipulação e análise dos dados em formato de DataFrame. É fundamental para o processo de ETL.
-* **NumPy**: Utilizada para realizar operações matemáticas eficientes, como a aplicação da função logarítmica para a normalização dos dados.
-* **matplotlib**: utilizada para plotar gráficos
-## Requisitos e Instalação
-
 Para rodar o script localmente, é necessário ter o Python e as bibliotecas listadas instaladas. Você pode instalar as dependências usando o `pip`, o gerenciador de pacotes do Python.
 
 ```bash
